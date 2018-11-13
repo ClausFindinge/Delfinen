@@ -15,12 +15,7 @@ public class Klovn {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    
-    sfagadfagd 
-            
-            xdfsdf
-    
+        System.out.println("howdy");
     }
     
 }
