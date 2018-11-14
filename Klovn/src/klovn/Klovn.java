@@ -18,6 +18,7 @@ public class Klovn {
         System.out.println("howdy");
         System.out.println("homer");
         System.err.println("Chris was here");
+        System.out.println(" Comittest ");
     }
     
 }
